@@ -1,3 +1,3 @@
 {
-  "mongoURI": "mongodb://localhost:27017"
+  "mongoURI": "mongodb+srv://sakshi:atlassak5@cluster0-cjzwt.mongodb.net/test?retryWrites=true&w=majority"
 }
